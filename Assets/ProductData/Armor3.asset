@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d580f79174ccd044ab3ec5b948104175, type: 3}
+  m_Name: Armor3
+  m_EditorClassIdentifier: 
+  count: 1
+  BuyCount: 0
+  image: {fileID: -5084268029357557464, guid: 0ea7cc723abea8240a0b704c56fa6b70, type: 3}
+  price: 25000
+  name: Pants Of Terror
+  content: ' This set was taken from the tomb of the deceased emperor during insane
+    bloodshed'
+  type: 1
